@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 210
+ETag: W/"d2-4EtvR8dUc2Z2U8p5/0/3Fntmj90"
+Date: Sat, 03 Oct 2026 21:24:48 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"environment":"production_insecure","db_type":"sqlite_in_memory","aws_access_key_id":"AKIAIOSFODNN7EXAMPLE","aws_secret_access_key":"wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY","jwt_secret_internal":"secret123"}

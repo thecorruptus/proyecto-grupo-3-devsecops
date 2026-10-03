@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 169
+ETag: W/"a9-xUy71hfCdIR4OG8NXyABdKP98XM"
+Date: Sat, 03 Oct 2026 21:24:49 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"message":"Contenido externo importado","dataPreview":"{\"environment\":\"production_insecure\",\"db_type\":\"sqlite_in_memory\",\"aws_access_key_id\":\"AKIAIOSFODNN7"}

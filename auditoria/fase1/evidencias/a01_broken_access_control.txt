@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 56
+ETag: W/"38-9URZ1SW/PaBUgAv4Fz63UUKbPKQ"
+Date: Sat, 03 Oct 2026 21:24:47 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"message":"Nota modificada exitosamente por rol admin"}
