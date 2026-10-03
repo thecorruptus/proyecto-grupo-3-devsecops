@@ -221,7 +221,7 @@ app.post('/api/exams/import-external', authenticateToken, requireRole('teacher')
     }
 
     // Lista blanca estricta de dominios
-    const allowedHosts = ['cdn.campusvirtual.cl', 'evaluaciones.inacap.cl'];
+
     if (!allowedHosts.includes(targetUrl.hostname)) {
       return res.status(403).json({ error: "Dominio no autorizado en la lista blanca" });
     }

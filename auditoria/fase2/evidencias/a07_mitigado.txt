@@ -1,0 +1,1 @@
+{"message":"Autenticación docente exitosa","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InByb2Zlc29yQGNhbXB1cy5jbCIsInJvbGUiOiJ0ZWFjaGVyIiwiaWF0IjoxNzkxMDY0NzY3LCJleHAiOjE3OTEwNjgzNjd9.hdZlH_6JGxwQ7alpBiFAVASGCHDvXPQodE8I2UsVFwU"}

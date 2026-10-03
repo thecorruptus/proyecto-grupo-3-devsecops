@@ -1,0 +1,1 @@
+{"error":"Formato de RUT inválido. Formato esperado: 12345678-9"}

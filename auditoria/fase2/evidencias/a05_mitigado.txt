@@ -1,0 +1,1 @@
+{"error":"Endpoint deshabilitado en entornos productivos"}
