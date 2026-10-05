@@ -36,4 +36,7 @@ Nos comprometemos solemnemente a:
 2. **Aplicar el principio de menor privilegio** en cada componente y capa del sistema.
 3. **Priorizar la protección de los usuarios finales** por encima de los atajos de desarrollo o las presiones de tiempo.
 
-*Firmado por el Equipo de Consultoría DevSecOps - Grupo 3*
+---
+### Firmado por el Equipo de Consultoría DevSecOps - Grupo 3:
+* **Mathias Correa** — Lead DevSecOps / Auditoría y Mitigaciones
+* **carlos acosta** — Oficial de Seguridad y Gobernanza ISO 27034  
